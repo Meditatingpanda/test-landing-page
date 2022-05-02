@@ -20,7 +20,7 @@ const styles = {
   btnText: "text-white font-IBMPlex minmd:text-lg",
 
   btnPrimary:
-    "bg-primary mt-4 py-4 px-6 text-white text-lg minmd:text-2xl font-IBMPlex font-medium rounded-lg hover:shadow-2xl",
+    "bg-primary mt-4  py-4 px-8 text-white text-lg minmd:text-2xl font-IBMPlex font-medium rounded-lg hover:shadow-2xl",
   btnBlack:
     "bg-black flex items-center py-2 px-4 rounded-md mt-2 w-fit cursor-pointer",
 

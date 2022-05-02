@@ -16,6 +16,20 @@ module.exports = {
         13: "1.3",
         16: "1.6",
       },
+
+    },
+    animation: {
+      'bounce-slow': 'bounce 3s infinite',
+    },
+    keyframes: {
+      bounce: {
+        "0%, 100%": {
+          transform: "translateY(20px)",
+        },
+        "50%": {
+          transform: "translateY(0)",
+        },
+      },
     },
     screens: {
       lg: { max: "1800px" },

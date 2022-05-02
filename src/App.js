@@ -7,15 +7,15 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="You own store of Nifty NFTs. Start Selling & Growing"
-        description="Buy, store, collect NFTS, exchange & earn crypto. Join 25+ million people using ProNef Marketplace."
+        title="Search Engine For Engineers"
+        description="Get Answers To All Your Queries On Search Bar Itself"
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
       />
       <SectionWrapper 
-        title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of ProNef NFT Marketplace. Smooth constant colors of a fluent UI design."
+        title="Instant Apps"
+        description="It is the magic wand to set you fly."
         mockupImg={assets.homeCards}
         reverse
       />
@@ -36,7 +36,7 @@ const App = () => {
 
       <div className="px-4 py-2 justify-center items-center bg-primary flex-col text-center banner04">
         <p className={`${styles.pText} ${styles.whiteText}`}>Made with love by {" "}
-        <span className="bold">JavaScript Mastery</span>
+        <span className="bold">Felvin</span>
         </p>
       </div>
     </>
